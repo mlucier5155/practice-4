@@ -1,6 +1,4 @@
-import random
-
 print("Welcome to Rock-Paper-Scissors!")
-
-computer = random.choice(["rock", "paper", "scissors"])
-print("Computer chose:", computer)
+g
+player = input("Enter rock, paper, or scissors: ")
+print("You chose:", player)
